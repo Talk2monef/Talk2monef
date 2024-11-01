@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Talk2monef
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning SOC analysis
+- 💞️ I’m looking to collaborate on with SOC analysts
+- 📫 How to reach me. talk2monef@gmail.com
